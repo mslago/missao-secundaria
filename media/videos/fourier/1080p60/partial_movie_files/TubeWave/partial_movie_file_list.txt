@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mlago/Downloads/cansat/missao-secundaria/media/videos/fourier/1080p60/partial_movie_files/TubeWave/1595565474_3209869347_1573983532.mov'
